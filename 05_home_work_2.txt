@@ -1,0 +1,22 @@
+'''
+pass name in small letter, age and height from command line argument and ;
+
+a) print name in capital letter
+b) if age is less than 10, print "You are very young"
+   if age is between 10-20 print "You are not very young"
+   else print "You are an adult"
+c) if height is less than 50 inch, print "you are short"
+   if height is greater than 50 inch but less than 60 inch, print "you are average"
+   else print "you are ok"
+'''
+
+import sys
+
+if len(sys.argv) < 4:
+   print("problem hai")
+   sys.exit(1)
+
+name = sys.argv[1]
+age = sys.argv[2]
+height = sys.argv[3]
+

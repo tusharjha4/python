@@ -1,0 +1,19 @@
+
+take user input for :
+
+1. name
+2. age
+3. height
+4. weight
+5. country
+
+convert age to int
+convert height and weight to float
+
+print user data in below format;
+
+Hello, name
+Your age is age
+Your height is height
+Your weight is weight
+Your country is country
