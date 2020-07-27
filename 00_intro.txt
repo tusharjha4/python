@@ -1,0 +1,13 @@
+execution wise:
+    compiled language ( needs compiler ) - java, c, c++, golang
+    interpreted language ( needs interpreter ) - python, ruby, javascript
+
+language type:
+    object oriented ( class, oops ) - java, c++, python
+    functional - javascript, golang, erlang, lisp
+
+    static typed ( java, c++, c, golang )
+    dynamic typed ( python, ruby, javascript )
+
+
+python is an interpreted and object oriented language
