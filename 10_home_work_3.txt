@@ -1,0 +1,7 @@
+1) Take input from user and create an employee dict
+    name
+    email
+    age  # type cast it to int
+    department
+
+2) Take 20 inputs from user between number 1-10 and find all unique numbers entered
